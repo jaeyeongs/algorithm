@@ -1,22 +1,29 @@
-# Do it! 자료구조와 함께 배우는 알고리즘 입문 - 파이썬 편
+# 400제로 배우는 파이썬 입문
 
-![image](https://user-images.githubusercontent.com/87981867/210765074-4d5602f2-18e9-4483-b6a8-2948eca36144.png)
+![image](https://user-images.githubusercontent.com/87981867/219939485-9ef0336a-0caa-43a0-be30-e97c7b7df323.png)
 
-### 01 알고리즘 기초
+### Chapter 1 파이썬 시작하기
 
-### 02 기본 자료구조와 배열
+### Chapter 2 데이터와 변수
 
-### 03 검색 알고리즘
+### Chapter 3 자료형
 
-### 04 스택과 큐
+### Chapter 4 연산자와 if 조건문
 
-### 05 재귀 알고리즘
+### Chapter 5 자료 구조와 반복문
 
-### 06 정열 알고리즘
+### Chapter 6 함수와 람다식
 
-### 07 문자열 검색
+### Chapter 7 클래스와 객체
 
-### 08 리스트
+### Chapter 8 예외처리 구문
 
-### 09 트리
+### Chapter 9 표준 모듈 및 사용자 정의 모듈
 
+### Chapter 10 파일 입출력 및 DB 연동
+
+### Chapter 11 파이썬 Tkinter GUI 개발
+
+### Chapter 12 웹 스크래핑과 크롤링
+
+### Chapter 13 미니 프로젝트
