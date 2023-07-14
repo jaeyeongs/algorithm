@@ -1,4 +1,4 @@
-# 알고리즘 문제 풀이
+## [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
-- 백준, 프로그래머스, 책 등으로 여러 알고리즘 문제 풀어보기
-- 따라만 하는 코딩이 아니라 코드를 이해하고 코드 짜보기
+- SELECT
+
