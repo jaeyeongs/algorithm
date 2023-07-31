@@ -1,4 +1,4 @@
-## [SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+## [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3)
 
-- SELECT
+- Lv.0
 
